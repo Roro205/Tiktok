@@ -1,0 +1,12 @@
+{
+  "name": "gomoku-server",
+  "version": "1.0.0",
+  "description": "五子棋后端",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.4"
+  }
+}
